@@ -9,7 +9,7 @@ allowing employees to receive their pay directly on payroll cards, without
 the traditional overhead costs of issuing checks.
 
 We provide employees with an easy-to-use alternative to traditional banking
-and check-cashing services &mdash; without the worry of going into debt,
+and check-cashing services—without the worry of going into debt,
 overdrawing an account, or incurring costly fees.
 
 Also, our payroll card programs are fully integrated with online financial

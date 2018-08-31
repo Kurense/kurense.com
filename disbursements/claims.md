@@ -2,7 +2,7 @@
 layout: disbursements
 ---
 
-# Get emergency funds to disaster victims&mdash;fast.
+# Get emergency funds to disaster victims—fast.
 
 Kurensē provides insurance companies, government agencies, and relief
 organizations branded prepaid cards to pay for necessities in the aftermath

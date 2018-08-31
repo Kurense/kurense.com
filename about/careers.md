@@ -4,13 +4,13 @@ layout: about
 # Teamwork
 
 Bringing successful products to market today takes teamwork every step of the
-way &mdash; from design and development to marketing and sales. Our continued
+way—from design and development to marketing and sales. Our continued
 leadership and innovation is fueled by only the best and brightest.
 
 ## Culture
 
 Kurensē fosters a culture of innovation, teamwork, and commitment that supports
-our entrepreneurial spirit.  Our associates enjoy an environment where
+our entrepreneurial spirit. Our associates enjoy an environment where
 results are rewarded and customer focus is valued.
 
 ## Development and Recognition

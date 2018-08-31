@@ -30,7 +30,7 @@ institutions and businesses in more than 90 countries worldwide. FIS provides
 financial institution core processing and card issuer and transaction
 processing services, including the NYCE Network. FIS maintains processing and
 technology relationships with 40 of the top 50 global banks, including nine
-of the top 10. Headquartered in Jacksonville, Fla., FIS employs approximately
+of the top 10. Headquartered in Jacksonville, Florida, FIS employs approximately
 30,000 on a global basis.
 
 <img class='partners' src='/images/partners/center_state_bank.png' />

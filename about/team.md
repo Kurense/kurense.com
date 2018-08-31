@@ -11,7 +11,7 @@ technology into new areas to be explored and developed.
 ## William G. Mays, Chairman
 
 William Mays is President of Mays Chemical Co., headquartered in
-Indianapolis, Ind.  Chemical has more than $200 million in annual sales and
+Indianapolis, Indiana. Mays Chemical has more than $200 million in annual sales and
 more than 190 employees, with facilities in Indianapolis, Chicago, Detroit,
 Cincinnati, Canada and Puerto Rico.
 
