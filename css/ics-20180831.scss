@@ -41,19 +41,16 @@ a {
 }
 
 #header {
-  margin-top: 25px;
+  padding: 20px;
 
   #logo {
-    width: 260px;
     height: 51px;
-    padding: 20px;
-    border-right: 1px solid $lightgray;
   }
 
   #tagline {
-    font-size: 1.1em;
-    margin-top: 45px;
-    margin-left: 20px;
+    font-size: 0.5em;
+    display: inline;
+    vertical-align: bottom;
   }
 }
 
