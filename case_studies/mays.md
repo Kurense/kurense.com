@@ -13,7 +13,7 @@ these employees.
 
 # The Solution
 
-ICS worked with Mays Chemical to create a customized payroll solution that
+Kurensē worked with Mays Chemical to create a customized payroll solution that
 provides direct deposit of all employee payrolls onto their personal cards.
 By changing payroll payments from paper checks to reloadable prepaid cards,
 Mays Chemical has the ability to instantly deposit funds to 100% of its

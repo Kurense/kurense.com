@@ -9,7 +9,7 @@ leadership and innovation is fueled by only the best and brightest.
 
 ## Culture
 
-ICS fosters a culture of innovation, teamwork, and commitment that supports
+Kurensē fosters a culture of innovation, teamwork, and commitment that supports
 our entrepreneurial spirit.  Our associates enjoy an environment where
 results are rewarded and customer focus is valued.
 
@@ -22,6 +22,6 @@ collaboratively design development paths to meet those objectives.
 
 ## Equal Opportunity Employer
 
-At Innovative Card Solutions, we are committed to equal employment
+At Kurensē, we are committed to equal employment
 opportunities for all without regard for race, religion, sex, national
 origin, disability, veteran's status, or other legally protected classes.

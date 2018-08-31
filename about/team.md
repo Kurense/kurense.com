@@ -3,7 +3,7 @@ layout: about
 ---
 # Experience at work.
 
-ICS's leaders have extensive experience in the financial services,
+Kurensē's leaders have extensive experience in the financial services,
 technology, distribution, product development and marketing industries. The
 management team is leading a company that is driven to take prepaid
 technology into new areas to be explored and developed.
@@ -64,7 +64,7 @@ in Information Systems from the University of Cincinnati.
 
 ## Mathew B. Murphy III, Chief Financial Officer
 
-Serving as Chief Financial Officer for Innovative Card Solutions, Matt
+Serving as Chief Financial Officer for Kurensē, Matt
 oversees various financial and budget analyses in the areas of account
 reconciliation, revenue forecasting, capital expenditures, and a wide variety
 of accounting and statistical data and reports.
@@ -92,12 +92,12 @@ Finance at the Kelley School of Business.
 
 ## Wyatt Goins, Chief Operations Officer
 
-As Chief Operations Officer for Innovative Card Solutions, Goins oversees
+As Chief Operations Officer for Kurensē, Goins oversees
 day-to-day business operations, policies, objectives, and initiatives of the
 organization to ensure future growth. He is also responsible for the
 attainment of short- and long-term financial and operational goals.
 
-Prior to founding Innovative Card Solutions, Goins spent 16 years in
+Prior to founding Kurensē, Goins spent 16 years in
 marketing as a Managing Director for many high-profile customers including
 Fifth Third Bank, Sara Lee, Limitedbrands, Cincinnati Bell and International
 Paper.
@@ -107,12 +107,12 @@ Urbana University.
 
 ## Jeff Marsh, Chief Product Officer
 
-Jeff currently serves as Chief Product Officer for Innovative Card Solutions.
+Jeff currently serves as Chief Product Officer for Kurensē.
 As Chief Product Officer, Jeff manages and oversees all product operations,
 including business development ventures, product development initiatives, and
 customer/client web access portals.
 
-Prior to joining ICS, Jeff served in many executive leadership roles in the
+Prior to joining Kurensē, Jeff served in many executive leadership roles in the
 healthcare and financial services industries with core responsibilities in
 driving the overall product architecture and strategy; delivering leading
 edge solutions. Jeff continues to focus on the latest technology offerings
@@ -130,7 +130,7 @@ and initiatives. He conducts market research and develops marketing plans for
 specific products, services, and business lines as well as reviewing changes
 to the marketplace and industry and adjusting marketing plans accordingly.
 
-Prior to joining Innovative Card Solutions, Goins  initiated and implemented
+Prior to joining Kurensē, Goins  initiated and implemented
 a wide range of fully integrated, award-winning campaigns over the past 16
 years as a creative director for clients including Provident Bank, the
 University of Cincinnati, Toyota, Procter &amp; Gamble, Wendy's and The

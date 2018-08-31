@@ -4,7 +4,7 @@ layout: compensation
 
 # Cost-effective payroll solution.
 
-ICS helps companies whose employees don't use or have bank accounts by
+Kurensē helps companies whose employees don't use or have bank accounts by
 allowing employees to receive their pay directly on payroll cards, without
 the traditional overhead costs of issuing checks.
 

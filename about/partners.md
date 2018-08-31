@@ -3,7 +3,7 @@ layout: about
 ---
 # Strategic partners. Global leaders.
 
-Innovative Card Solutions has formed partnerships with some of the most
+Kurensē has formed partnerships with some of the most
 exciting technology companies in the electronic payments industry to provide
 card management, processing and customer support for our unique suite of
 prepaid card programs.

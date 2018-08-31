@@ -4,7 +4,7 @@ layout: disbursements
 
 # Streamline delivery of university payments.
 
-ICS provides colleges and universities a convenient way for students to
+Kurensē provides colleges and universities a convenient way for students to
 manage their money and receive tuition refund disbursements.
 
 In addition, our college prepaid card programs are fully integrated with

@@ -12,14 +12,14 @@ distribute paper checks.
 
 # The Solution
 
-ICS rapidly implemented a comprehensive, custom solution that quickly
+Kurensē rapidly implemented a comprehensive, custom solution that quickly
 eliminated paper checks and transitioned 100% of the school's tuition-refund
 payments to electronic delivery loaded directly to Trine University Prepaid
 MasterCard&reg;.
 
 # The Result
 
-ICS helped Trine University to eliminate costs associated with processing and
+Kurensē helped Trine University to eliminate costs associated with processing and
 distributing checks and made its internal operations more streamlined and
 efficient, while giving students a faster delivery of tuition refund
 disbursements.

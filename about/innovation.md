@@ -30,7 +30,7 @@ financially track budget vs. actual spend on their prepaid card.
 
 ## Marketing
 
-ICS delivers turnkey prepaid solutions that are fully integrated with your
+Kurensē delivers turnkey prepaid solutions that are fully integrated with your
 brand. We offer cost-effective and complimentary marketing support including
 brand strategy, design, distribution, and fulfillment services.  In addition,
 your branded prepaid card acts as a mini-billboard for your business each

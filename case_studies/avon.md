@@ -11,7 +11,7 @@ Execute Leadership Team.
 
 # The Solution
 
-Avon turned to Innovative Card Solutions, which helped design a fully
+Avon turned to Kurensē, which helped design a fully
 custom-branded Avon program that created a better overall employee
 reimbursement experience and even greater brand recognition.
 
