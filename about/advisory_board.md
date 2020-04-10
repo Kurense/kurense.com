@@ -4,7 +4,7 @@ layout: about
 # Advisory Board
 <h2>
   Edwin J. Rigaud
-  <br>
+  <br />
   Co-Director, Taft Business Consulting LLC
 </h2>
 
@@ -34,7 +34,7 @@ the KnowledgeWorks Foundation).
 
 <h2>
   Carl Satterwhite
-  <br>
+  <br />
   President, RCF Group
 </h2>
 
