@@ -33,11 +33,8 @@ technology relationships with 40 of the top 50 global banks, including nine
 of the top 10. Headquartered in Jacksonville, Florida, FIS employs approximately
 30,000 on a global basis.
 
-<img class='partners' src='/images/partners/center_state_bank.png' />
+<img class='partners' src='/images/partners/southstate_bank.png' width='240'/>
 
 ## Center State Bank
 
-CenterSate Bank is a leading issuer of network branded prepaid cards and has
-consistently delivered outstanding results for its program partners.
-Long-standing relationships with card associations and industry leading
-networks and processors are the key to the organization’s success.
+SouthState Bank is a leading issuer of network branded prepaid cards and has consistently delivered outstanding results for its program partners. Long-standing relationships with card associations and industry leading networks and processors are the key to the organization's success.
