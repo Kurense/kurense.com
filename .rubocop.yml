@@ -1,0 +1,56 @@
+---
+require:
+  - standard
+
+inherit_gem:
+  # Since we'll be invoking 'rubocop' directly, we need to include the standardrb config.
+  standard: config/base.yml
+
+AllCops:
+  TargetRubyVersion: 3.3
+  Exclude:
+    - 'Gemfile.lock'
+    - 'bin/*'
+  SuggestExtensions: false
+
+#
+# Override standardrb rules:
+#
+
+Layout/ArgumentAlignment:
+  Enabled: yes
+
+Layout/HashAlignment:
+  Enabled: yes
+
+Style/FrozenStringLiteralComment:
+  # https://github.com/rubocop-hq/rubocop/issues/7197 https://github.com/testdouble/standard/pull/181
+  Enabled: yes
+
+Style/MutableConstant:
+  Enabled: yes
+
+Style/StringLiterals:
+  # Why should anyone care what kinds of quotes are used? Use what you use.
+  Enabled: no
+
+Style/StringLiteralsInInterpolation:
+  # Why should anyone care what kinds of quotes are used? Use what you use.
+  Enabled: no
+
+Style/TrailingCommaInArguments:
+  EnforcedStyleForMultiline: comma
+
+Style/TrailingCommaInArrayLiteral:
+  EnforcedStyleForMultiline: comma
+
+Style/TrailingCommaInHashLiteral:
+  EnforcedStyleForMultiline: comma
+
+Bundler/GemComment:
+  Enabled: true
+  OnlyFor:
+    - limiting_version_specifiers
+    - github
+    - git
+    - path
