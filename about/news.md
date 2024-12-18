@@ -3,73 +3,26 @@ layout: about
 ---
 **FOR IMMEDIATE RELEASE**
 
-# CincyTech invests in financial services firm
+# PrismHR and Kurensē Partner for Paycard Integration
 
-## Innovative Card Solutions provides prepaid MasterCard cards as well as financial literacy education.
+## PrismHR customers can now streamline delivery of worksite employee payments and reduce payroll costs.
 
-**CINCINNATI (Aug. 15, 2011)**: CincyTech has invested $250,000
-in Innovative Card Solutions (Kurensē), founded by brothers Wyatt and Wade
-Goins, which provides reloadable, prepaid MasterCard cards along with
-online financial literacy courses and money management tools for
-corporations and universities. 
+**Hopkinton, MA (November 7, 2018)**: PrismHR, the leading HR software platform for human resource outsourcing (HRO) service providers, announced a new partnership with payroll card solution provider Kurensē.
 
-The company has a dual market: corporations that want to provide direct
-payroll deposit to employees who don't have bank accounts, and universities
-whose students need a convenient way to manage their money and access tuition
-refunds.
+As the leading technology platform for PEOs and ASOs, PrismHR continuously looks for ways to help HR outsourcers improve their efficiency and operations via technology integrations in the PrismHR Marketplace The newest company to join the PrismHR Marketplace is Kurensē, a leading financial payments technology company. This integration helps PrismHR customers streamline payroll processes and increase the value they bring to their clients and prospects.
 
-Innovative Card Solutions helps these employees and students manage their
-money more effectively as well. The company has created a host of financial
-literacy "training modules"—23 so far—on subjects such as
-monthly budgeting, understanding your credit scores, avoiding identity theft
-and managing college loans. It also provides mobile messaging alerts and
-other money-management tools.
+“Our customers have told us that having an integrated no-cost paycard solution will improve adoption and give employees a faster, more convenient way to be paid,” said Kraig Sanders, Manager, Strategic Partnerships, PrismHR. “By integrating the PrismHR Platform and Kurensē, PrismHR customers are now able to offer a payroll card solution that is seamlessly connected to payroll, saving PrismHR customers significant time and money.”
 
-About 70 million people in the U.S. do not use banks, and Kurensē was founded in
-part "to teach financial literacy and provide underserved consumers a safe,
-convenient way of making purchases, paying bills and getting cash," said Wade
-Goins, chief marketing officer.
+“HR outsourcers that streamline operations and make their team and processes more efficient can improve their bottom line and customer service,” said Wyatt Goins, President and Co-founder, Kurensē. “Kurensē helps HROs do that with a proven technology platform that automates manual processes and increases accuracy. This approach, along with the overall integration with PrismHR, and Kurensē’s unmatched personal support and service, makes payday easier and faster for all involved.“
 
-"Our prepaid cards allow our clients to provide their employees and students
-with an easy-to-use alternative to credit cards, traditional banking, and
-check-cashing services—without the worry of going into debt,
-overdrawing an account, or incurring costly fees," he said.
+To learn more, PrismHR customers can attend a webinar with Kurensē on December 6 at 2 pm ET.
 
-<a href="http://www.cincytechusa.com/">CincyTech</a> CTO-in-residence Rahul
-Bawa says Kurensē also solves a problem for companies whose employees don't have
-bank accounts by allowing employees to receive their pay directly on payroll
-cards, without the traditional overhead costs of issuing checks.
+### About PrismHR
 
-In addition to the CincyTech investment, two individual investors contributed
-an undisclosed amount in the financing round.
+<a href="https://www.prismhr.com">PrismHR</a>
+creates exceptional software and services, empowering human resource outsourcing service providers such as Professional Employer Organizations (PEOs) and Administrative Service Organizations (ASOs) to deliver world-class payroll, benefits and HR to small and medium sized businesses. PrismHR software is used by more than 88,000 organizations and
+2.2 million worksite employees, processing greater than $57 billion in payroll each year.
 
-"We invested in Kurensē at a good time. It has already passed some of the
-barriers to entry in this market, has great business partners in place, has
-worked out the regulatory issues, and has a strong technology platform," Bawa
-said.
+### About Kurensē
 
-Innovative Card Solutions has agreements with Urbana University, University
-of Evansville, Florida Memorial University, Trine University and Wilmington
-College to provide the service to their students, beginning this fall. Kurensē is
-working with a variety of staffing firms and payroll companies to provide
-payroll card solutions for their employees.
-
-### About Innovative Card Solutions
-
-Innovative Card Solutions LLC is an independent, privately held,
-minority-owned corporation with offices in Cincinnati (headquarters) and
-Chicago. Kurensē powers the development and delivery of unique prepaid card
-programs and technology platforms, which are at the forefront of the
-electronic payments market and teach financial literacy, reduce costs, drive
-efficiencies and enhance brand awareness. Kurensē has formed strategic
-relationships with MasterCard, FIS, and The Bancorp Bank.
-
-### About CincyTech
-
-CincyTech is a public-private venture development organization that invests
-in startup businesses in high-tech industries in Southwest Ohio. With
-substantial support from Ohio Third Frontier and corporations, foundations,
-civic organizations and individuals here, it is stimulating the growth of
-venture-worthy companies in information technology, bioscience and advanced
-manufacturing.
-
+Kurensē is a leading financial payments technology company that empowers businesses with technology-enabled payment solutions for their employees, vendors and customers. ​Our technologies, services and employee expertise enable us to provide a broad range of solutions that allow our customers to streamline delivery of payments and operate their businesses more efficiently.​ ​Kurensē is a certified minority-owned business enterprise based in Cincinnati, Ohio with local, regional and national capabilities.

@@ -41,14 +41,3 @@ CenterSate Bank is a leading issuer of network branded prepaid cards and has
 consistently delivered outstanding results for its program partners.
 Long-standing relationships with card associations and industry leading
 networks and processors are the key to the organization’s success.
-
-<img class='partners' src='/images/partners/cincytech.png' />
-
-## CincyTech
-
-CincyTech is a public-private venture development organization that invests
-in startup businesses in high-tech industries in Southwest Ohio. With
-substantial support from Ohio Third Frontier and corporations, foundations,
-civic organizations and individuals here, it is stimulating the growth of
-venture-worthy companies in information technology, bioscience and advanced
-manufacturing.
