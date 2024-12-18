@@ -1,56 +1,58 @@
 ---
 ---
-$blue: #0a4193;
-$gray: #999;
-$lightgray: #bbb;
-$darkgray: #555;
+
+$heading-color: #0a4193;
+$subheading-color: #555;
+$link-color: #0a4193;
+$nav-link-color: #555;
+$nav-border-color: #bbb;
+$text-color: #555;
 
 body {
-  color: $gray;
+  color: $text-color;
   font-family: sans-serif;
-  font-size: 90%;
-}
-
-h1, h2 {
-  font-weight: normal;
 }
 
 h1 {
-  color: $blue;
+  color: $heading-color;
   font-size: 1.3em;
   margin-bottom: 0.5em;
   margin-top: 0;
 }
 
 h2 {
-  color: $darkgray;
+  color: $subheading-color;
   font-size: 1.1em;
+  font-weight: normal;
   margin-top: 1.5em;
   margin-bottom: 0.5em;
 }
 
 p {
   margin-bottom: 1em;
-  color: $gray;
   line-height: 1.8em;
 }
 
 a {
-  color: $blue;
+  color: $link-color;
   text-decoration: none;
 }
 
 #header {
   padding: 20px;
 
-  #logo {
-    height: 51px;
-  }
+  a {
+    display: inline-block;
+    color: #777;
+    text-decoration: none;
 
-  #tagline {
-    font-size: 0.5em;
-    display: inline;
-    vertical-align: bottom;
+    img#logo {
+      height: 51px;
+    }
+    #tagline {
+      font-size: 0.5em;
+      text-align: right;
+    }
   }
 }
 
@@ -58,17 +60,17 @@ a {
   font-size: 0.9em;
 
   a {
-    color: $lightgray;
+    color: $nav-link-color;
 
     &.selected, &:hover {
-      color: $blue;
+      color: $link-color;
     }
   }
 }
 
 #navigation {
-  margin: 15px 0 40px 0;
-  border-top: 1px solid $lightgray;
+  margin: 0 0 40px 0;
+  border-top: 1px solid $nav-border-color;
   padding-top: 15px;
 
   a {
@@ -91,7 +93,7 @@ a {
     margin: (-15px) 20px 0 10px;
     width: 1px;
     height: 300px;
-    border-right: 1px solid $lightgray;
+    border-right: 1px solid $nav-border-color;
   }
 
   li {
@@ -137,7 +139,7 @@ a {
       float: right;
       width: 1px;
       height: 200px;
-      border-right: 1px solid $lightgray;
+      border-right: 1px solid $nav-border-color;
       margin-left: 10px;
     }
 
@@ -149,12 +151,12 @@ a {
 
     .title {
       text-transform: uppercase;
-      color: $blue;
+      color: $heading-color;
     }
 
     .subtitle {
       margin-bottom: 5px;
-      color: $darkgray;
+      color: $subheading-color;
     }
 
     img {
@@ -252,8 +254,13 @@ img.advisory-board {
   }
 }
 
-#copyright, #issuer_statement {
+footer {
+  color: #777;
   text-align: center;
   margin: 30px;
-  font-size: 0.75em;
+  font-size: 0.7rem;
+  p {
+    margin: 0.7em 0;
+    line-height: 1em;
+  }
 }
