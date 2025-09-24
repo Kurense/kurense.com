@@ -37,4 +37,4 @@ of the top 10. Headquartered in Jacksonville, Florida, FIS employs approximately
 
 ## Center State Bank
 
-SouthState Bank is a leading issuer of network branded prepaid cards and has consistently delivered outstanding results for its program partners. Long-standing relationships with card associations and industry leading networks and processors are the key to the organization's success.
+SouthState Bank, NA is a leading issuer of network branded prepaid cards and has consistently delivered outstanding results for its program partners. Long-standing relationships with card associations and industry leading networks and processors are the key to the organization's success.
